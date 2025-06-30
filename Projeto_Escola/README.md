@@ -381,5 +381,5 @@ Para dúvidas ou problemas:
 ---
 
 **Versão**: 1.0.0  
-**Última Atualização**: Janeiro 2024  
+**Última Atualização**: Junho 2025  
 **Desenvolvido por**: Equipe de Desenvolvimento Escolar
